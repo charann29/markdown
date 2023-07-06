@@ -53,7 +53,8 @@ UL -->
 1. Umesh item 1
 2. Item 2
 3. Rakshh Chaala bavundhi idhi
-4. assl vere
+4. Apaa got her first salary!! ( July 6th,2023 ) - Happy for her! ❤️✨
+5. assl vere
    1. Uttiganehh start chesa kanee bavundhi
 
 <!-- Inline code block -->
@@ -91,6 +92,8 @@ def add(num1 , num2):
 | --------- | --------------- |
 | John      | john@gmail.com  |
 | Rakshitha | raksh@gmail.com |
+
+
 
 <!-- Task Lists -->
 
